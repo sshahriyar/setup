@@ -15,7 +15,7 @@ git clone https://github.com/sshahriyar/setup.git
 ```
 
 
-[Reference: Video Lectures 4a/4b]https://class.coursera.org/startup-001/lecture/index
+[Reference: Video Lectures 4a/4b] https://class.coursera.org/startup-001/lecture/index
 
 
 
