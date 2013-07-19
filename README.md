@@ -7,13 +7,15 @@ follows:
 ```sh
 cd $HOME
 sudo apt-get install -y git-core
-git clone https://github.com/startup-class/setup.git
+ssh-keygen -t rsa -C "youremail@mail.com"
+# press enter two to three times
+# Add key on github
+git clone https://github.com/sshahriyar/setup.git
 ./setup/setup.sh   
 ```
 
-See also http://github.com/startup-class/dotfiles and
-[Startup Engineering Video Lectures 4a/4b](https://class.coursera.org/startup-001/lecture/index)
-for more details.
+
+[Reference: Video Lectures 4a/4b]https://class.coursera.org/startup-001/lecture/index
 
 
 
